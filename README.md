@@ -14,3 +14,7 @@ Cross-browser Compatibility: Works seamlessly across modern browsers, ensuring c
 Accessibility: Includes features like keyboard navigation and proper aria attributes for improved accessibility.
 
 This repository is ideal for anyone looking to implement a modern, responsive, and accessible navigation bar in their web projects.
+
+
+https://github.com/user-attachments/assets/6963682c-4df6-4f90-8294-fd6344144170
+
